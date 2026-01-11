@@ -1,4 +1,6 @@
-37
+39
+2,25AnniSimple,XXV_simple
+2,25AnniSpecial,xxv_special
 2,WaspNova,m2waspnova
 2,Sideways,m2sideways
 2,Slither,m2slither

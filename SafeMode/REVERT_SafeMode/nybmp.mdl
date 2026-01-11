@@ -1,0 +1,2 @@
+use "model";
+nybmp = ImportImageFromFile("ny.png", true);

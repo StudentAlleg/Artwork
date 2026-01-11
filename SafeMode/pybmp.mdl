@@ -1,0 +1,2 @@
+use "model";
+pybmp = ImportImageFromFile("black256.png", true);

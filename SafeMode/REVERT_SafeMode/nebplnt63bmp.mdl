@@ -1,0 +1,2 @@
+use "model";
+nebplnt63bmp = ImportImageFromFile("nebplnt63.png", true);

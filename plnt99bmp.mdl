@@ -1,0 +1,2 @@
+use "model";
+plnt99bmp = ImportImageFromFile("plnt99.png", false);

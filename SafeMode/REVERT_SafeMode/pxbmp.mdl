@@ -1,0 +1,2 @@
+use "model";
+pxbmp = ImportImageFromFile("px.png", true);

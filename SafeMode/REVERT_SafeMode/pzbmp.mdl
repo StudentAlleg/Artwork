@@ -1,0 +1,2 @@
+use "model";
+pzbmp = ImportImageFromFile("pz.png", true);

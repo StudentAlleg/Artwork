@@ -1,0 +1,3 @@
+use "model";
+nebplnt63bmp = ImportImageFromFile("black256.png", true);
+

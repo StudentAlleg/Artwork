@@ -1,0 +1,2 @@
+use "model";
+nxbmp = ImportImageFromFile("nx.png", true);

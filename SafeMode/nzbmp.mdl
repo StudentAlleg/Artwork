@@ -1,0 +1,2 @@
+use "model";
+nzbmp = ImportImageFromFile("black256.png", true);
